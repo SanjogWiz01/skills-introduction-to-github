@@ -9,7 +9,6 @@ on:
   push:
     branches:
       - "my-first-branch"
-      - "mybranchh"
 
 permissions:
   contents: read
